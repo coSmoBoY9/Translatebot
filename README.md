@@ -1,0 +1,2 @@
+# Translatebot
+Pythonda translate bot
